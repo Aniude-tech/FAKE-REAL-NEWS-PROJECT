@@ -1,0 +1,1 @@
+To build system that will classify Fake and Real news
