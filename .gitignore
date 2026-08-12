@@ -46,7 +46,8 @@ data/processed/*
 # Models
 # =====================================
 models/*
-!models/.gitkeep
+!models/fake_news_svm.pkl
+!models/tfidf_vectorizer.pkl
 
 # =====================================
 # Reports
