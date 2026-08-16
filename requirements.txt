@@ -1,0 +1,37 @@
+# Core data science
+numpy==2.5.1
+pandas==3.0.5
+scipy==1.18.0
+scikit-learn==1.9.0
+joblib==1.5.3
+
+# Natural Language Processing
+nltk==3.10.2
+
+# Machine learning / model experimentation
+imbalanced-learn==0.14.2
+xgboost==3.4.0
+
+# Data visualization
+matplotlib==3.11.1
+seaborn==0.13.2
+wordcloud==1.9.6
+
+# API
+fastapi==0.141.1
+uvicorn==0.52.1
+pydantic==2.13.4
+
+# Frontend
+streamlit==1.61.1
+
+# Testing
+pytest==9.1.1
+httpx==0.28.1
+
+# Configuration
+PyYAML==6.0.3
+
+# Jupyter / notebooks
+jupyter==1.1.1
+ipykernel==7.3.0
