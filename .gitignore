@@ -46,7 +46,8 @@ data/processed/*
 # Models
 # =====================================
 models/*
-!models/.gitkeep
+!models/fake_news_svm.pkl
+!models/tfidf_vectorizer.pkl
 
 # =====================================
 # Reports
@@ -64,3 +65,22 @@ reports/figures/*
 # =====================================
 .DS_Store
 Thumbs.db
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Testing
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
